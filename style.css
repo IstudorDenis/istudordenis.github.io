@@ -1,6 +1,9 @@
 *{
     font-family: "Comic Sans MS" !important;
 }
+a{
+    text-decoration: none;
+}
 body {
     background: black;
     color: white;
