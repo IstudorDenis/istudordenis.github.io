@@ -1,0 +1,25 @@
+body {
+    font-family: "Comic Sans MS";
+    background: black;
+    color: white;
+    text-align: center;
+  }
+  .pages {
+    text-align: center;
+  }
+  .pages a {
+    color: white;
+    text-decoration: none;
+    padding: 8px 5px;
+    display: inline-block;
+  }
+  .pages a.active {
+    background-color: blue;
+    font-weight: bold;
+    border-radius: 5px;
+  }
+  .pages a:hover:not(.active) {
+    background-color: gray;
+    border-radius: 5px;
+  }
+  
