@@ -31,4 +31,7 @@ p {
     background-color: gray;
     border-radius: 5px;
   }
+.logo {
+    align-items: end;
+}
   
